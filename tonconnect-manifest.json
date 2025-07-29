@@ -1,7 +1,7 @@
 {
-  "url": "https://yourdomain.com/bot",
+  "url": "https://github.com/Rotatcid/tonconnect-manifest",
   "name": "PsychoTest Bot",
-  "iconUrl": "https://yourdomain.com/icon.png",
-  "termsOfUseUrl": "https://yourdomain.com/terms",
-  "privacyPolicyUrl": "https://yourdomain.com/privacy"
+  "iconUrl": "https://raw.githubusercontent.com/Rotatcid/tonconnect-manifest/main/icon.png",
+  "termsOfUseUrl": "https://github.com/Rotatcid/tonconnect-manifest/blob/main/TERMS.md",
+  "privacyPolicyUrl": "https://github.com/Rotatcid/tonconnect-manifest/blob/main/PRIVACY.md"
 }
